@@ -1,1 +1,5 @@
 //This i want to delete 
+//This i want to push into git
+//This i want to pull into local repository
+//This i want to clone into git repository
+//This i want to commiting into git repository
