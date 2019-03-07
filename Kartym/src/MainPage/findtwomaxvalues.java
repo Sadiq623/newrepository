@@ -21,7 +21,6 @@ public class findtwomaxvalues {
 				maxTwo=n;
 			}
 			
-				
 			}
 		
 		System.out.println("Max value:"+maxOne);
